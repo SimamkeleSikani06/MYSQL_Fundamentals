@@ -1,0 +1,2 @@
+# MYSQL_Fundamentals
+MYSQL FUNDAMENTALS
